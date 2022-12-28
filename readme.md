@@ -1,0 +1,1 @@
+a vite app test
